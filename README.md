@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack web developement.
 - 🌱 I’m currently learning JavaScript, React and Node.
 - 💞️ I’m looking to collaborate on frontend dev projects.
-- 📫 How to reach me @zaidsiddiqui(instagram) @zaidsidd260(twitter) 
+- 📫 How to reach me @zaidsiddiqui (instagram) @zaidsidd360 (twitter) 
 
 <!---
 zaidsidd360/zaidsidd360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
