@@ -1,10 +1,10 @@
 Hi 👋 My name is Md Zaid Siddiqui
 =================================
 
-Web Developer and UI Designer
+Front-end web developer and UI Designer
 -----------------------------
 
-I've been learning to code for the past one and a half year. Ever since I started, I've found a passion for front-end developement and UI design.
+I've been learning to code for the past one and a half year. Ever since I started, I've found a passion for front-end web developement and UI design.
 
 *   🌍  I'm based in Kolkata.
 *   ✉️  You can contact me at [zaidsidd360@gmail.com](mailto:zaidsidd360@gmail.com)
