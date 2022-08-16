@@ -11,6 +11,8 @@ I've been learning to code for the past one and a half year. Ever since I starte
 *   🧠  I'm learning Reactjs, Nodejs, and MongoDB.
 *   🤝  I'm open to collaborating on Frontend developement projects, especially projects involving Reactjs.
 *   ⚡  I don't like Bootstrap. At all.
+
+[![](https://visitcount.itsvg.in/api?id=zaidsidd360&label=Profile%20Visits&icon=2&pretty=false)](https://visitcount.itsvg.in)
                     
 
 
