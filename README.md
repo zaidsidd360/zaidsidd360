@@ -8,7 +8,7 @@ I've been learning to code for the past one and a half year. Ever since I starte
 
 *   🌍  I'm based in Kolkata.
 *   ✉️  You can contact me at [zaidsidd360@gmail.com](mailto:zaidsidd360@gmail.com)
-*   🧠  I'm learning Reactjs, Nodejs, and MongoDB.
+*   🧠  I'm learning Reactjs, Tailwind CSS and Django currently.
 *   🤝  I'm open to collaborating on Frontend developement projects, especially projects involving Reactjs.
 *   ⚡  I don't like Bootstrap. At all.
 
