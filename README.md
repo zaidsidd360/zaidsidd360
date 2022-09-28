@@ -12,6 +12,11 @@ I've been learning to code for the past one and a half year. Ever since I starte
 *   🤝  I'm open to collaborating on Frontend developement projects, especially projects involving Reactjs.
 *   ⚡  I don't like Bootstrap. At all.
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidsidd360&show_icons=true&locale=en" alt="zaidsidd360" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidsidd360&" alt="zaidsidd360" /></p>
+
 [![](https://visitcount.itsvg.in/api?id=zaidsidd360&label=Profile%20Visits&icon=2&pretty=false)](https://visitcount.itsvg.in)
                     
 
