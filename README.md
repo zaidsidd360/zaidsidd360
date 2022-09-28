@@ -18,6 +18,9 @@ var languages = ["Python", "Javascript", "Java"]
 
 ### Github Stats:
 <div align=center>
+  
+
+[![](https://visitcount.itsvg.in/api?id=zaidsidd360&label=Profile%20Visits&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaidsidd360&theme=gruvbox&hide_border=true&fire=fcce00&ring=fcce00)](https://github.com/zaidsidd360)[![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidsidd360&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/zaidsidd360)
 </div>
@@ -39,13 +42,7 @@ var languages = ["Python", "Javascript", "Java"]
 <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" >
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
 </div>
-
-
-
-[![](https://visitcount.itsvg.in/api?id=zaidsidd360&label=Profile%20Visits&icon=2&pretty=false)](https://visitcount.itsvg.in)
                     
-
-
 <!---
 zaidsidd360/zaidsidd360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
