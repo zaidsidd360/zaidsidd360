@@ -28,6 +28,9 @@ var languages = ["Python", "Javascript", "Java"]
 ### Tech Stack:
 <div align=center>  
 <img src="https://img.icons8.com/plasticine/344/react.png" title="React" height=50 width=50>
+<img src="https://img.icons8.com/fluency/344/tailwind_css.png" title="Tailwind CSS" height=50 width=50>
+<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="Styled Components" height=50 width=50>
+<img src="https://spline.design/_next/static/chunks/images/spline_logo-c068feca0f6ae756affe68498147df78.png" title="Spline Tool" height=40 width=40>
 <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=45 width=45>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=45 width=45>
