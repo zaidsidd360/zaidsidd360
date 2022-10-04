@@ -22,7 +22,7 @@ var languages = ["Python", "Javascript", "Java"]
 
 [![](https://visitcount.itsvg.in/api?id=zaidsidd360&label=Profile%20Visits&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaidsidd360&theme=gruvbox&hide_border=true&fire=fcce00&ring=fcce00)](https://github.com/zaidsidd360)[![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidsidd360&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/zaidsidd360)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaidsidd360&theme=gruvbox&hide_border=true&fire=fcce00&ring=fcce00)](https://github.com/zaidsidd360)
 </div>
 
 ### Tech Stack:
