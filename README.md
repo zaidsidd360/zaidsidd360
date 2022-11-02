@@ -1,12 +1,57 @@
-# Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+```javascript
+class GithubUser {
+    constructor(name, languages, technologies, occupation, location) {
+        this.name = name
+        this.languages = languages
+        this.technologies = technologies
+        this.occupation = occupation
+        this.location = location
+    }
+    const sayHello = () => {
+        console.log(`Hello world! I'm ${this.name}. A ${this.occupation} based 
+        in ${this.location}. Currently, I'm learning ${this.technologies.frontend.js[0]} 
+        with ${this.languages[1]}.`)
+    }
+}
 
-```typescript
-const name: string = "Md Zaid Siddiqui"
-var interests: string[] = ["Web Front-end", "Graphic Design", "Open-Source", "Astronomy"]
-var languages: string[] = ["Python","Typescript", "Javascript", "Java"]
+const name = "Md Zaid Siddiqui"
+let interests = ["Web Front-end", "Graphic Design", "Open-Source", "Astronomy"]
+let languages = ["Python", "Typescript", "Javascript", "Java"]
+let technologies = {
+    frontend: {
+        js: ["Reactjs", "Nextjs"],
+        css: ["Tailwind", "Styled-Components", "MaterialUI", "Bootstrap"]
+    },
+    backend: {
+        python: ["django", "FastAPI"]
+    },
+    misc: ["Linux", "git", "github", "VSCode", "Photoshop", "Illustrator"]
+}
+
+const Zaid = new GitHubUser(
+                name, 
+                languages,
+                technologies, 
+                "CS UnderGrad and junior React developer", 
+                "Kolkata, India"
+                )
+Zaid.sayHello()
 ```
-<div align=center width=100%>
+<!-- <div align=center width=100%>
   <img src="https://c.tenor.com/g6HaWJWdyTAAAAAC/cai-anime-typing.gif">
+</div> -->
+
+### Github Stats:
+<div align=center>
+  
+
+[![](https://visitcount.itsvg.in/api?id=zaidsidd360&label=Profile%20Visits&icon=2&pretty=false)](https://visitcount.itsvg.in)
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidsidd360&langs_count=10&theme=tokyonight&layout=compact" alt="zaidsidd360 :: Top Langs" /> -->
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaidsidd360&theme=gruvbox&hide_border=true&fire=fcce00&ring=fcce00)](https://github.com/zaidsidd360) -->
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaidsidd360&show_icons=true&count_private=true)](https://github.com/zaidsidd360)
 </div>
 
 ### Connect with me:
@@ -16,16 +61,7 @@ var languages: string[] = ["Python","Typescript", "Javascript", "Java"]
 <a href="https://www.instagram.com/zaidsiddiqui__/" alt="zaidsiddiqui__ | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 </div>
 
-### Github Stats:
-<div align=center>
-  
-
-[![](https://visitcount.itsvg.in/api?id=zaidsidd360&label=Profile%20Visits&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaidsidd360&theme=gruvbox&hide_border=true&fire=fcce00&ring=fcce00)](https://github.com/zaidsidd360)
-</div>
-
-### Tech Stack:
+<!-- ### Tech Stack:
 <div align=center>  
 <img src="https://img.icons8.com/plasticine/344/react.png" title="React" height=50 width=50>
 <img src="https://img.icons8.com/fluency/344/tailwind_css.png" title="Tailwind CSS" height=50 width=50>
@@ -44,7 +80,7 @@ var languages: string[] = ["Python","Typescript", "Javascript", "Java"]
 <img src="https://user-images.githubusercontent.com/87397035/192893606-33ed21bf-4999-4f3e-a771-052ea33f8daa.png" title="git" height=50 width=50>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" >
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
-</div>
+</div> -->
                     
 <!---
 zaidsidd360/zaidsidd360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
