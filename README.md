@@ -1,9 +1,9 @@
 # Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-```javascript
-const name = "Md Zaid Siddiqui"
-var interests = ["Web Front-end", "Graphic Design", "Open-Source", "Astronomy"]
-var languages = ["Python", "Javascript", "Java"]
+```typescript
+const name: string = "Md Zaid Siddiqui"
+var interests: string[] = ["Web Front-end", "Graphic Design", "Open-Source", "Astronomy"]
+var languages: string[] = ["Python","typescript", "Javascript", "Java"]
 ```
 <div align=center width=100%>
   <img src="https://c.tenor.com/g6HaWJWdyTAAAAAC/cai-anime-typing.gif">
