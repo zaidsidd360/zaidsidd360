@@ -3,7 +3,7 @@
 ```typescript
 const name: string = "Md Zaid Siddiqui"
 var interests: string[] = ["Web Front-end", "Graphic Design", "Open-Source", "Astronomy"]
-var languages: string[] = ["Python","typescript", "Javascript", "Java"]
+var languages: string[] = ["Python","Typescript", "Javascript", "Java"]
 ```
 <div align=center width=100%>
   <img src="https://c.tenor.com/g6HaWJWdyTAAAAAC/cai-anime-typing.gif">
