@@ -61,6 +61,8 @@ Zaid.sayHello()
 <a href="https://www.instagram.com/zaidsiddiqui__/" alt="zaidsiddiqui__ | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 </div>
 
+[![@zaidsidd36's Holopin board](https://holopin.me/zaidsidd36)](https://holopin.io/@zaidsidd36)
+
 <!-- ### Tech Stack:
 <div align=center>  
 <img src="https://img.icons8.com/plasticine/344/react.png" title="React" height=50 width=50>
