@@ -1,5 +1,6 @@
-```sudo chmod 444 index.js```
+```sudo chmod 444 ./script.js```
 ```javascript
+//script.js start
 class GithubUser {
     constructor(name, languages, technologies, occupation, location) {
         this.name = name
@@ -37,6 +38,7 @@ const Zaid = new GitHubUser(
                 "Kolkata, India"
                 )
 Zaid.sayHello()
+//script.js end
 ```
 <!-- <div align=center width=100%>
   <img src="https://c.tenor.com/g6HaWJWdyTAAAAAC/cai-anime-typing.gif">
