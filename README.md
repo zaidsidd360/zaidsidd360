@@ -1,3 +1,4 @@
+```sudo chmod 444 index.js```
 ```javascript
 class GithubUser {
     constructor(name, languages, technologies, occupation, location) {
