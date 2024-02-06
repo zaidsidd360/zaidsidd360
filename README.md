@@ -25,8 +25,11 @@ let technologies = {
         css: ["Tailwind", "Styled-Components", "MaterialUI", "Bootstrap"]
     },
     backend: {
-        python: ["django", "FastAPI"]
+        python: ["django", "FastAPI"],
+        javascript: [expressjs],
+        java: [Spring MVC, Spring Boot]
     },
+    cloud: [AWS S3, AWS EC2]
     misc: ["Linux", "git", "github", "VSCode", "Photoshop", "Illustrator"]
 }
 
@@ -34,7 +37,7 @@ const Zaid = new GitHubUser(
                 name, 
                 languages,
                 technologies, 
-                "CS UnderGrad and junior React developer", 
+                "Software  Developer", 
                 "Kolkata, India"
                 )
 Zaid.sayHello()
