@@ -26,8 +26,8 @@ let technologies = {
     },
     backend: {
         python: ["django", "FastAPI"],
-        javascript: [expressjs],
-        java: [Spring MVC, Spring Boot]
+        javascript: ["expressjs"],
+        java: ["Spring MVC", "Spring Boot"]
     },
     cloud: [AWS S3, AWS EC2]
     misc: ["Linux", "git", "github", "VSCode", "Photoshop", "Illustrator"]
